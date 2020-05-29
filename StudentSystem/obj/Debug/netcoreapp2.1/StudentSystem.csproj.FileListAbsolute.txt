@@ -1,0 +1,239 @@
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csprojAssemblyReference.cache
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cache
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.dll
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.input.cache
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.output.cache
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorCoreGenerate.cache
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CopyComplete
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersEkleme.g.cshtml.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersProgrami.g.cshtml.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\SecilenDersler.g.cshtml.cs
+C:\Users\irems\source\repos\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sis.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.dll
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csprojAssemblyReference.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.input.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.output.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorCoreGenerate.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersEkleme.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersProgrami.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\SecilenDersler.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sis.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CopyComplete
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.dll
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csprojAssemblyReference.cache
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cache
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.input.cache
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.output.cache
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorCoreGenerate.cache
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersEkleme.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersProgrami.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\SecilenDersler.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sis.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\irems\Desktop\New folder\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CopyComplete
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csprojAssemblyReference.cache
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cache
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.dll
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.input.cache
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.output.cache
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorCoreGenerate.cache
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersEkleme.g.cshtml.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersProgrami.g.cshtml.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\SecilenDersler.g.cshtml.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sis.g.cshtml.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\bktul\OneDrive\Masaüstü\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CopyComplete
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.dll
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cache
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.input.cache
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.output.cache
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorCoreGenerate.cache
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersEkleme.g.cshtml.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersProgrami.g.cshtml.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\SecilenDersler.g.cshtml.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sis.g.cshtml.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\brkyc\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CopyComplete
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.dll
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csprojAssemblyReference.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.input.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.output.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorCoreGenerate.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersEkleme.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersProgrami.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\SecilenDersler.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sis.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\mesut\Desktop\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CopyComplete
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.dll
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csprojAssemblyReference.cache
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cache
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.input.cache
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.output.cache
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorCoreGenerate.cache
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersEkleme.g.cshtml.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersProgrami.g.cshtml.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\SecilenDersler.g.cshtml.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sis.g.cshtml.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\brkyc\Desktop\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CopyComplete
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.deps.json
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.json
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.runtimeconfig.dev.json
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.dll
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csprojAssemblyReference.cache
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cache
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorAssemblyInfo.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.AssemblyInfo.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.input.cache
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.TagHelpers.output.cache
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorCoreGenerate.cache
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersEkleme.g.cshtml.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\DersProgrami.g.cshtml.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\SecilenDersler.g.cshtml.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sis.g.cshtml.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cache
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.RazorTargetAssemblyInfo.cs
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.Views.pdb
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.dll
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.pdb
+C:\Users\brkyc\Desktop\Karışık\Mesut_Gedik_StudentSystemInformation\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.1\StudentSystem.csproj.CopyComplete

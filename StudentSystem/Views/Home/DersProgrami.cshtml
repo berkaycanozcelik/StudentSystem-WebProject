@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Ders>
+@{
+    ViewData["Title"] = "DersProgrami";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SecilenDersler</title>
+</head>
+<body>
+    <div class="col-md-10">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="content-box-large">
+                    <div class="panel-heading">
+                        <div class="panel-title">Ders Programı</div>
+
+                    </div>
+                    <div class="panel-body">
+                        @foreach (var ders in Model)
+                        {
+                        <p>@ders.DersAdi  @ders.DersKodu @ders.Ogrt @ders.DersDay @ders.DersSaati</p>
+                        }
+
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,7 @@
+Mesut Gedik 2014556031
+Ýremsu Savaþ 2015556058
+Berkay Can Özçelik 2014556050
+
+Proje Konusu
+
+Ögrenci bilgilendirme sistemidir. Ders ekleme, Ders Silme , seçilen dersleri görüntülemektedir.

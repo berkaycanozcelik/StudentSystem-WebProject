@@ -1,0 +1,52 @@
+﻿@model List<Ders>
+@{
+    ViewData["Title"] = "DersEkleme";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SecilenDersler</title>
+</head>
+<body>
+    <div class="col-md-10">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="content-box-large">
+                    <div class="panel-heading">
+                        <div class="panel-title">Ders Ekleme</div>
+
+                        <div class="panel-options">
+                            <a href="#" data-rel="collapse"><i class="glyphicon glyphicon-refresh"></i></a>
+                            <a href="#" data-rel="reload"><i class="glyphicon glyphicon-cog"></i></a>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                    <form    method="post">
+                        <ul>
+                            @{
+                                for(int i=0; i < Model.Count(); i++) {
+                            <li>
+                                <input type="hidden" asp-for="@Model[i].DersId" />
+                                <input type="checkbox" asp-for="@Model[i].chechboxAnswer" />
+
+
+                                <label>@Model[i].DersAdi @Model[i].Ogrt @Model[i].DersKodu @Model[i].DersDay @Model[i].DersSaati </label>
+                            </li>
+                                }
+                            }
+                        </ul>
+                         <button type="submit" asp-action="SecilenDersler" >Add</button>
+                    </form>
+                      
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

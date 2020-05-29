@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Ders>
+@{
+    ViewData["Title"] = "SecilenDersler";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SecilenDersler</title>
+</head>
+<body>
+
+    <div class="col-md-10">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="content-box-large">
+                    <div class="panel-heading">
+                        <div class="panel-title">Seçilen Dersler</div>
+
+                        <div class="panel-options">
+                            <a href="#" data-rel="collapse"><i class="glyphicon glyphicon-refresh"></i></a>
+                            <a href="#" data-rel="reload"><i class="glyphicon glyphicon-cog"></i></a>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                        <form method="post">
+                            @foreach (var ders in Model)
+                            {
+                                <p>@ders.DersAdi  @ders.DersKodu @ders.Ogrt <button type="submit" asp-action="DersSilme" asp-route-cid="@ders.DersId">Sil</button></p>
+
+                            }
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+           
+</body>
+</html>
